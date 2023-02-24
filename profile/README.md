@@ -5,7 +5,6 @@
 **💻 FrontEnd** <br/>
 React, Styled-component, Recoil, Axios, React-query <br/>
 <br/>
-
 **👩 Team Member Info**
 
 | Position  | Name   | Github                          |
