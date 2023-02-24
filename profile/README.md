@@ -1,7 +1,6 @@
-## 틴더 클론코딩 팀프로젝트 Frontend
+# 💕 틴더 클론코딩 팀프로젝트 Frontend
 
-
-## Stack
+## 🚀 Stack
 
 **FrontEnd** <br/>
 React, Styled-component, Recoil, Axios, React-query <br/>
@@ -17,5 +16,5 @@ React, Styled-component, Recoil, Axios, React-query <br/>
 | BE        | 한수진 | https://github.com/soojin-dev |
 | BE        | 신현재 | https://github.com/tmpanmitw |
 
-
+**📄 SA** <br/>
 https://docs.google.com/spreadsheets/d/1yT5djLGE5phw6LVMbI2TZhHFSXJmZ7Tp39aXE9nBvpQ/edit#gid=0
