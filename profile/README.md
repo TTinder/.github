@@ -2,7 +2,7 @@
 
 ## 🚀 Stack
 
-**FrontEnd** <br/>
+**💻 FrontEnd** <br/>
 React, Styled-component, Recoil, Axios, React-query <br/>
 <br/>
 
